@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.DS_Store
+
+# ⛔ Aucun secret ne doit jamais entrer dans ce dépôt : il est partagé par tous les produits.
+*.env
+!*.env.example
